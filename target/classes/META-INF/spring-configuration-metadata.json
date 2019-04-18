@@ -1,0 +1,207 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config",
+      "type": "hello.vo.MoveItConfig"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config",
+      "type": "hello.vo.ServiceConfig"
+    },
+    {
+      "sourceType": "hello.vo.UrlConfigs",
+      "name": "step-url-mapping",
+      "type": "hello.vo.UrlConfigs"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config.destination",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config.local-file-directory",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.MoveItConfig",
+      "name": "moveit-config.user-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.account-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.accounts-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.active-ads-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.active-adsets-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.active-campaign-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.ad-insights-fields-to-write",
+      "type": "java.lang.String[]"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.ad-insights-file-headers",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.ad-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.adset-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.business-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.business-token",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.campaign-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.date-format",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.file-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.num-of-days",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-accounts-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-demographics-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-engagement-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-impressions-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-post-file-headers",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-post-headers",
+      "type": "java.lang.String[]"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-posts-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-reactions-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-view-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.page-view-video-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.post-engagement-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.post-impressions-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.post-reactions-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.post-video-insights-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.user-access-token",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.ServiceConfig",
+      "name": "service-config.user-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "hello.vo.UrlConfigs",
+      "name": "step-url-mapping.map",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ]
+}
